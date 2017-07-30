@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>C:\Users\Mario\Work\WhiteFeet Software\_Studies\_Template2014\Template2014\bin\Debug\Template.dll</Assembly>
+    <AddInId>2A631CC8-08E0-41D8-B117-F7425899AA2E</AddInId>
+    <FullClassName>Template.Command</FullClassName>
+    <VendorId>WHFT</VendorId>
+    <VendorDescription>WhiteFeet, www.whitefeet.com</VendorDescription>
+    <Text>WfDev - Template</Text>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <Discipline>Any</Discipline>
+    <LanguageType>Unknown</LanguageType>
+  </AddIn>
+</RevitAddIns>

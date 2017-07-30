@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Template Application</Name>
+    <Assembly>Template\Template.dll</Assembly>
+    <AddInId>1E46B740-6296-43EF-8342-2616E9ABCC9E</AddInId>
+    <FullClassName>Template.Application</FullClassName>
+    <VendorId>WHFT</VendorId>
+    <VendorDescription>WhiteFeet, www.whitefeet.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
